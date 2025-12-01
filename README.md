@@ -48,7 +48,7 @@ Central Orchestrator (Gemini 1.5 Pro)
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/logistiq-pro.git
+git clone https://github.com/npistofidis/logistiq-pro.git
 cd logistiq-pro
 
 # Install dependencies
@@ -317,7 +317,7 @@ If you use this project, please cite:
   title = {LogistIQ Pro: AI-Powered Logistics Intelligence Platform},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/logistiq-pro}
+  url = {https://github.com/npistofidis/logistiq-pro}
 }
 ```
 
