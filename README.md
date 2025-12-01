@@ -12,12 +12,6 @@ Built for the [Kaggle AI Agents Intensive - Capstone Project](https://www.kaggle
 
 LogistIQ Pro is a production-ready multi-agent AI system that autonomously manages warehouse dock operations, optimizes truck loads, and handles urgent exceptions in real-time. Built using Google's Gemini 1.5 Pro and LangGraph orchestration.
 
-**Key Results:**
-- 🎯 Truck utilization: 68% → 89% (+31%)
-- ⚡ Slot booking time: 15 min → 30 sec (-97%)
-- 🚨 Urgent order handling: 2+ hours → 5 minutes (-96%)
-- 💰 ROI: €112,500/year savings
-
 ---
 
 ## Architecture
@@ -295,7 +289,6 @@ flake8 src/ app/ demos/
 This is a capstone project submission. For questions or collaboration:
 
 **Author:** Neoklis  
-**Company:** Agrohellas A.E.  
 **Role:** Head of IT & Logistics  
 
 ---
